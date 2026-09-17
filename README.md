@@ -1,4 +1,4 @@
-# Exemplo 00
+# Rede neural com Tensor Flow Javascript
 
 Projeto simples em Node.js que demonstra o treinamento e uso de uma rede neural com TensorFlow.js.
 
